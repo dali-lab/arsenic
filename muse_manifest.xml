@@ -1,0 +1,291 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="sftp://arsenic.dali.dartmouth.edu" ftp_rootfolder="//home/sites/arsenic" exportTarget="FTP" domain="arsenic.dali.dartmouth.edu" resolutions="1x,2x" timestamp="1487095141444">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="191238482" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="6rice.ai" crc="4111574282" seo="true" mt="1427492681000"/>
+    <file name="bucket.ai" crc="3813927525" seo="true" mt="1418102722000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="arsenic-favicon.ico" crc="532954344" ref="index"/>
+    <file name="soil.jpg" crc="281357342" ref="index"/>
+    <file name="old_moon.jpg" crc="220995626" ref="index"/>
+    <file name="railroadpng-crop-u1044.png" crc="340860668" ref="index"/>
+    <file name="railroadpng.png" crc="308003743" seo="true" ref="index"/>
+    <file name="riverpng2.png" crc="38897747" seo="true" ref="index"/>
+    <file name="rock1.png" crc="165842188" seo="true" ref="index"/>
+    <file name="arsenic31x32.png" crc="4271365225" seo="true" ref="index"/>
+    <file name="arsenic31x32_2x.png" crc="402461979" seo="true" ref="index"/>
+    <file name="railroadpng224x224.png" crc="308003743" seo="true" ref="index"/>
+    <file name="f3105x70.png" crc="312311763" seo="true" ref="index"/>
+    <file name="f3105x70_2x.png" crc="4191207367" seo="true" ref="index"/>
+    <file name="f2.png" crc="4042134111" seo="true" ref="index"/>
+    <file name="f2_2x.png" crc="3986571413" seo="true" ref="index"/>
+    <file name="waterseeping.png" crc="13854145" seo="true" ref="index"/>
+    <file name="ricepattern.jpg" crc="3974072677" ref="index"/>
+    <file name="wheat405x172.png" crc="259446504" seo="true" ref="index"/>
+    <file name="grasstex.jpg" crc="4201501197" ref="index"/>
+    <file name="farmhouse216x196.png" crc="331787105" seo="true" ref="index"/>
+    <file name="riverturn.png" crc="437040620" seo="true" ref="index"/>
+    <file name="arsenic.png" crc="3937096994" seo="true" ref="index"/>
+    <file name="arsenic_2x.png" crc="4113864470" seo="true" ref="index"/>
+    <file name="arsenic50x51.png" crc="3821675431" seo="true" ref="index"/>
+    <file name="arsenic50x51_2x.png" crc="4113864470" seo="true" ref="index"/>
+    <file name="arsenic35x36.png" crc="4023152801" seo="true" ref="index"/>
+    <file name="arsenic35x36_2x.png" crc="3967158139" seo="true" ref="index"/>
+    <file name="arsenic34x35.png" crc="4108532162" seo="true" ref="index"/>
+    <file name="arsenic34x35_2x.png" crc="304183980" seo="true" ref="index"/>
+    <file name="cornfield.png" crc="154606382" seo="true" ref="index"/>
+    <file name="crop1.png" crc="4042268012" seo="true" ref="index"/>
+    <file name="crop1_2x.png" crc="313618230" seo="true" ref="index"/>
+    <file name="trees1.png" crc="4083567971" seo="true" ref="index"/>
+    <file name="shawdow.png" crc="376058306" seo="true" ref="index"/>
+    <file name="riverturn2.png" crc="3854684019" seo="true" ref="index"/>
+    <file name="rocks2.png" crc="417038685" seo="true" ref="index"/>
+    <file name="chickentray.jpg" crc="128257750" seo="true" ref="index"/>
+    <file name="chickentray_2x.jpg" crc="52242696" seo="true" ref="index"/>
+    <file name="apples.png" crc="149342793" seo="true" ref="index"/>
+    <file name="silos.png" crc="452144736" seo="true" ref="index"/>
+    <file name="silos-crop-u1133.png" crc="3853939627" ref="index"/>
+    <file name="silos-crop-u1133_2x.png" crc="442687427" ref="index"/>
+    <file name="chick1.png" crc="119557340" seo="true" ref="index"/>
+    <file name="chick453x63.png" crc="504694597" seo="true" ref="index"/>
+    <file name="chick453x63_2x.png" crc="4161002740" seo="true" ref="index"/>
+    <file name="chick170x72.png" crc="308046039" seo="true" ref="index"/>
+    <file name="chick170x72_2x.png" crc="119557340" seo="true" ref="index"/>
+    <file name="chick373x58.png" crc="4030702887" seo="true" ref="index"/>
+    <file name="chick373x58_2x.png" crc="3832042436" seo="true" ref="index"/>
+    <file name="mountainspng.png" crc="14152063" seo="true" ref="index"/>
+    <file name="river.png" crc="3915380476" seo="true" ref="index"/>
+    <file name="wellpng176x243.png" crc="4196548492" seo="true" ref="index"/>
+    <file name="wellpng73x101.png" crc="465103302" seo="true" ref="index"/>
+    <file name="wellpng73x101_2x.png" crc="37004742" seo="true" ref="index"/>
+    <file name="wellpng48x67.png" crc="4168218953" seo="true" ref="index"/>
+    <file name="wellpng48x67_2x.png" crc="328785905" seo="true" ref="index"/>
+    <file name="wellpng30x42.png" crc="4105455932" seo="true" ref="index"/>
+    <file name="wellpng30x42_2x.png" crc="106919096" seo="true" ref="index"/>
+    <file name="factory.png" crc="4117922360" seo="true" ref="index"/>
+    <file name="wheat.png" crc="108426984" seo="true" ref="index"/>
+    <file name="wheat317x135.png" crc="4058269195" seo="true" ref="index"/>
+    <file name="wheat317x135_2x.png" crc="3867186428" seo="true" ref="index"/>
+    <file name="f1.png" crc="52315540" seo="true" ref="index"/>
+    <file name="f1_2x.png" crc="4270349941" seo="true" ref="index"/>
+    <file name="f2109x77.png" crc="76368793" seo="true" ref="index"/>
+    <file name="f2109x77_2x.png" crc="256341304" seo="true" ref="index"/>
+    <file name="f3.png" crc="4002042861" seo="true" ref="index"/>
+    <file name="f3_2x.png" crc="4182193745" seo="true" ref="index"/>
+    <file name="f140x46.png" crc="75334959" seo="true" ref="index"/>
+    <file name="f140x46_2x.png" crc="3781393500" seo="true" ref="index"/>
+    <file name="tunnent2.png" crc="466197483" seo="true" ref="index"/>
+    <file name="farmhouse.png" crc="4173815595" seo="true" ref="index"/>
+    <file name="chick385x67.png" crc="326455140" seo="true" ref="index"/>
+    <file name="chick385x67_2x.png" crc="3832042436" seo="true" ref="index"/>
+    <file name="chick2.png" crc="3926823355" seo="true" ref="index"/>
+    <file name="chick3.png" crc="3832042436" seo="true" ref="index"/>
+    <file name="chick270x64.png" crc="4259600206" seo="true" ref="index"/>
+    <file name="chick270x64_2x.png" crc="3926823355" seo="true" ref="index"/>
+    <file name="chick151x53.png" crc="288857543" seo="true" ref="index"/>
+    <file name="chick151x53_2x.png" crc="119557340" seo="true" ref="index"/>
+    <file name="chick4.png" crc="4161002740" seo="true" ref="index"/>
+    <file name="arsenic_logo.png" crc="4094984795" seo="true" ref="index"/>
+    <file name="arsenic_logo_2x.png" crc="4066875059" seo="true" ref="index"/>
+    <file name="u2258-6.png" crc="159705315" ref="index"/>
+    <file name="u2258-6_2x.png" crc="4027154002" ref="index"/>
+    <file name="arsenic_icon81x85.png" crc="97097268" seo="true" ref="index"/>
+    <file name="water_icon81x85.png" crc="4096804978" seo="true" ref="index"/>
+    <file name="bedrock_icon82x87.png" crc="3920113230" seo="true" ref="index"/>
+    <file name="fertilizer_icon74x78.png" crc="4094522479" seo="true" ref="index"/>
+    <file name="farmland_icon75x80.png" crc="4128961684" seo="true" ref="index"/>
+    <file name="chickens_icon74x79.png" crc="3988631788" seo="true" ref="index"/>
+    <file name="apples_icon74x78.png" crc="3860289301" seo="true" ref="index"/>
+    <file name="rice_icon75x80.png" crc="3854459472" seo="true" ref="index"/>
+    <file name="nube_png_cloud_png_by_andyprops-d5wqoin.png" crc="305674452" seo="true" ref="index"/>
+    <file name="cloud_png4.png" crc="502666957" seo="true" ref="index"/>
+    <file name="cloud_png4_2x.png" crc="502666957" seo="true" ref="index"/>
+    <file name="u2641-4.png" crc="3899071121" ref="index"/>
+    <file name="u2641-4_2x.png" crc="234787852" ref="index"/>
+    <file name="arrow_black.png" crc="3991435206" seo="true" ref="index"/>
+    <file name="arrow_black_2x.png" crc="3945561717" seo="true" ref="index"/>
+    <file name="u3045-4.png" crc="4050092898" ref="index"/>
+    <file name="u3045-4_2x.png" crc="3859944654" ref="index"/>
+    <file name="u2969-4.png" crc="522565992" ref="index"/>
+    <file name="u2969-4_2x.png" crc="4102631369" ref="index"/>
+    <file name="ricehut2280x280.png" crc="3826342804" seo="true" ref="index"/>
+    <file name="ricehut2280x280_2x.png" crc="3990830421" seo="true" ref="index"/>
+    <file name="wellpng.png" crc="491728363" seo="true" ref="index"/>
+    <file name="market.png" crc="4069734398" seo="true" ref="index"/>
+    <file name="ricehut2314x314.png" crc="83288241" seo="true" ref="index"/>
+    <file name="ricehut2314x314_2x.png" crc="4060130995" seo="true" ref="index"/>
+    <file name="ricehut2.png" crc="330925879" seo="true" ref="index"/>
+    <file name="ricehut2_2x.png" crc="4063274190" seo="true" ref="index"/>
+    <file name="ricehut2283x283.png" crc="4199251546" seo="true" ref="index"/>
+    <file name="ricehut2283x283_2x.png" crc="4222667984" seo="true" ref="index"/>
+    <file name="ricehut.png" crc="3782871708" seo="true" ref="index"/>
+    <file name="ricehut_2x.png" crc="266303126" seo="true" ref="index"/>
+    <file name="u2838-4.png" crc="4294891744" ref="index"/>
+    <file name="u2838-4_2x.png" crc="118146830" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u2968_states.png" crc="440270980" ref="index"/>
+    <file name="u2968_states_2x.png" crc="35925387" ref="index"/>
+    <file name="u2968_states-m.png" crc="440270980" ref="index"/>
+    <file name="u2968_states-m_2x.png" crc="35925387" ref="index"/>
+    <file name="train.png" crc="4290051680" seo="true" ref="index"/>
+    <file name="tractor235x236.png" crc="4289901057" seo="true" ref="index"/>
+    <file name="tractor235x236_2x.png" crc="3890650204" seo="true" ref="index"/>
+    <file name="bucket2.png" crc="4068880922" seo="true" ref="index"/>
+    <file name="bucket2_2x.png" crc="3894840897" seo="true" ref="index"/>
+    <file name="arsenic27x28.png" crc="4285202082" seo="true" ref="index"/>
+    <file name="arsenic27x28_2x.png" crc="337939556" seo="true" ref="index"/>
+    <file name="arsenic28x29.png" crc="3841832112" seo="true" ref="index"/>
+    <file name="arsenic28x29_2x.png" crc="3945487576" seo="true" ref="index"/>
+    <file name="arsenic26x27.png" crc="380281332" seo="true" ref="index"/>
+    <file name="arsenic26x27_2x.png" crc="449488947" seo="true" ref="index"/>
+    <file name="arsenic29x30.png" crc="4128682596" seo="true" ref="index"/>
+    <file name="arsenic29x30_2x.png" crc="276696816" seo="true" ref="index"/>
+    <file name="arsenic29x29.png" crc="4128682596" seo="true" ref="index"/>
+    <file name="arsenic29x29_2x.png" crc="276696816" seo="true" ref="index"/>
+    <file name="arsenic28x28.png" crc="3841832112" seo="true" ref="index"/>
+    <file name="arsenic28x28_2x.png" crc="3945487576" seo="true" ref="index"/>
+    <file name="arsenic25x26.png" crc="7116814" seo="true" ref="index"/>
+    <file name="arsenic25x26_2x.png" crc="3821675431" seo="true" ref="index"/>
+    <file name="arsenic40x41.png" crc="39099764" seo="true" ref="index"/>
+    <file name="arsenic40x41_2x.png" crc="3989693147" seo="true" ref="index"/>
+    <file name="tractor.png" crc="4281699600" seo="true" ref="index"/>
+    <file name="tractor_2x.png" crc="3890650204" seo="true" ref="index"/>
+    <file name="truck2.png" crc="4100843116" seo="true" ref="index"/>
+    <file name="truck2_2x.png" crc="3919622578" seo="true" ref="index"/>
+    <file name="arsenic21x21.png" crc="108290525" seo="true" ref="index"/>
+    <file name="arsenic21x21_2x.png" crc="3951104482" seo="true" ref="index"/>
+    <file name="arsenic33x33.png" crc="7552169" seo="true" ref="index"/>
+    <file name="arsenic33x33_2x.png" crc="4234212147" seo="true" ref="index"/>
+    <file name="arsenic_icon.png" crc="381459924" seo="true" ref="index"/>
+    <file name="u2829-4.png" crc="4118996121" ref="index"/>
+    <file name="u2829-4_2x.png" crc="493610126" ref="index"/>
+    <file name="water_icon.png" crc="3879950281" seo="true" ref="index"/>
+    <file name="u2831-4.png" crc="24274147" ref="index"/>
+    <file name="u2831-4_2x.png" crc="65126882" ref="index"/>
+    <file name="bedrock_icon.png" crc="135971265" seo="true" ref="index"/>
+    <file name="u2832-4.png" crc="462504044" ref="index"/>
+    <file name="u2832-4_2x.png" crc="3958607752" ref="index"/>
+    <file name="fertilizer_icon.png" crc="3766770732" seo="true" ref="index"/>
+    <file name="u2833-4.png" crc="3804504479" ref="index"/>
+    <file name="u2833-4_2x.png" crc="54278504" ref="index"/>
+    <file name="chickens_icon.png" crc="443381444" seo="true" ref="index"/>
+    <file name="u2835-4.png" crc="20980681" ref="index"/>
+    <file name="u2835-4_2x.png" crc="3780553257" ref="index"/>
+    <file name="apples_icon.png" crc="3913009508" seo="true" ref="index"/>
+    <file name="u2836-4.png" crc="4156534720" ref="index"/>
+    <file name="u2836-4_2x.png" crc="331509423" ref="index"/>
+    <file name="rice_icon.png" crc="3823946440" seo="true" ref="index"/>
+    <file name="u2837-5.png" crc="121212867" ref="index"/>
+    <file name="u2837-5_2x.png" crc="4058648739" ref="index"/>
+    <file name="blankbox_arsenic.png" crc="4124007201" seo="true" ref="index"/>
+    <file name="u2899-4.png" crc="4130019231" ref="index"/>
+    <file name="u2899-4_2x.png" crc="3886329971" ref="index"/>
+    <file name="u2900-4.png" crc="4118393719" ref="index"/>
+    <file name="u2900-4_2x.png" crc="4172889015" ref="index"/>
+    <file name="blankbox_water.png" crc="536713171" seo="true" ref="index"/>
+    <file name="u2901-4.png" crc="119591380" ref="index"/>
+    <file name="u2901-4_2x.png" crc="3878638448" ref="index"/>
+    <file name="u2902-4.png" crc="3829531973" ref="index"/>
+    <file name="u2902-4_2x.png" crc="4103503027" ref="index"/>
+    <file name="blankbox_industry.png" crc="3960586447" seo="true" ref="index"/>
+    <file name="u2907-4.png" crc="226035099" ref="index"/>
+    <file name="u2907-4_2x.png" crc="3759184620" ref="index"/>
+    <file name="u2908-4.png" crc="4292415150" ref="index"/>
+    <file name="u2908-4_2x.png" crc="4258342896" ref="index"/>
+    <file name="blankbox_bedrock.png" crc="4196693446" seo="true" ref="index"/>
+    <file name="u2904-4.png" crc="4053931649" ref="index"/>
+    <file name="u2904-4_2x.png" crc="37758981" ref="index"/>
+    <file name="u2905-4.png" crc="235291643" ref="index"/>
+    <file name="u2905-4_2x.png" crc="4126008425" ref="index"/>
+    <file name="blankbox_farmland.png" crc="499729991" seo="true" ref="index"/>
+    <file name="u2909-4.png" crc="79282822" ref="index"/>
+    <file name="u2909-4_2x.png" crc="3992608640" ref="index"/>
+    <file name="u2910-4.png" crc="401695122" ref="index"/>
+    <file name="u2910-4_2x.png" crc="280599092" ref="index"/>
+    <file name="blankbox_chickens.png" crc="327864273" seo="true" ref="index"/>
+    <file name="u2911-4.png" crc="307211434" ref="index"/>
+    <file name="u2911-4_2x.png" crc="112797827" ref="index"/>
+    <file name="u2912-4.png" crc="3847968307" ref="index"/>
+    <file name="u2912-4_2x.png" crc="65437511" ref="index"/>
+    <file name="blankbox_apples.png" crc="327790517" seo="true" ref="index"/>
+    <file name="u2913-4.png" crc="117727282" ref="index"/>
+    <file name="u2913-4_2x.png" crc="4146517723" ref="index"/>
+    <file name="u2914-4.png" crc="200013534" ref="index"/>
+    <file name="u2914-4_2x.png" crc="83050379" ref="index"/>
+    <file name="blankbox_rice.png" crc="189771179" seo="true" ref="index"/>
+    <file name="u2915-4.png" crc="3937108488" ref="index"/>
+    <file name="u2915-4_2x.png" crc="4287446168" ref="index"/>
+    <file name="u2916-4.png" crc="525494830" ref="index"/>
+    <file name="u2916-4_2x.png" crc="475343211" ref="index"/>
+    <file name="u2917-4.png" crc="4279195167" ref="index"/>
+    <file name="u2917-4_2x.png" crc="3976939151" ref="index"/>
+    <file name="u2918-4.png" crc="4289012546" ref="index"/>
+    <file name="u2918-4_2x.png" crc="292411698" ref="index"/>
+    <file name="farmland_icon.png" crc="108350627" seo="true" ref="index"/>
+    <file name="u2834-4.png" crc="4221973614" ref="index"/>
+    <file name="u2834-4_2x.png" crc="202653635" ref="index"/>
+    <file name="balloon2.png" crc="3941164056" seo="true" ref="index"/>
+    <file name="balloon2_2x.png" crc="4083185206" seo="true" ref="index"/>
+    <file name="balloon.png" crc="57288880" seo="true" ref="index"/>
+    <file name="balloon_2x.png" crc="268968424" seo="true" ref="index"/>
+    <file name="u2765-4.png" crc="3919928208" ref="index"/>
+    <file name="u2765-4_2x.png" crc="500203753" ref="index"/>
+    <file name="rice_tip_icon.png" crc="209539219" seo="true" ref="index"/>
+    <file name="rice_tip_icon_2x.png" crc="4263316590" seo="true" ref="index"/>
+    <file name="u3018-4.png" crc="367671391" ref="index"/>
+    <file name="u3018-4_2x.png" crc="3806250918" ref="index"/>
+    <file name="water_tip_icon.png" crc="449092352" seo="true" ref="index"/>
+    <file name="water_tip_icon_2x.png" crc="3778447603" seo="true" ref="index"/>
+    <file name="u3026-4.png" crc="263496034" ref="index"/>
+    <file name="u3026-4_2x.png" crc="501889289" ref="index"/>
+    <file name="juice_tip_icon.png" crc="3882543332" seo="true" ref="index"/>
+    <file name="juice_tip_icon_2x.png" crc="293584799" seo="true" ref="index"/>
+    <file name="u2782-4.png" crc="368737304" ref="index"/>
+    <file name="u2782-4_2x.png" crc="3883140755" ref="index"/>
+    <file name="motherbaby_tip_icon.png" crc="393837132" seo="true" ref="index"/>
+    <file name="motherbaby_tip_icon_2x.png" crc="4086516862" seo="true" ref="index"/>
+    <file name="u3033-4.png" crc="256120581" ref="index"/>
+    <file name="u3033-4_2x.png" crc="516776658" ref="index"/>
+    <file name="caution_tip_icon.png" crc="335384565" seo="true" ref="index"/>
+    <file name="caution_tip_icon_2x.png" crc="372089988" seo="true" ref="index"/>
+    <file name="u3041-4.png" crc="3912818429" ref="index"/>
+    <file name="u3041-4_2x.png" crc="4240835443" ref="index"/>
+    <file name="u3042-4.png" crc="231077223" ref="index"/>
+    <file name="u3042-4_2x.png" crc="437071997" ref="index"/>
+    <file name="partnership.png" crc="179254285" seo="true" ref="index"/>
+    <file name="partnership_2x.png" crc="481553239" seo="true" ref="index"/>
+    <file name="dali_black_sponsorship_credit.png" crc="4252926058" seo="true" ref="index"/>
+    <file name="dali_black_sponsorship_credit_2x.png" crc="4173258912" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="183224333" seo="true" mt="1432656394460" redirect="true"/>
+  <site>
+    <asset filename="6rice.ai" muse_href="upload:U430"/>
+    <asset filename="bucket.ai" muse_href="upload:U1208"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Arsenic" filename="index.html" muse_href="page:U68" master="U59">
+        <breakpoint uid="U3067" maxwidth="1160" minwidth="0" squishy="false"/>
+        <anchor name="skiptoend" html_id="skiptoend" muse_href="anchor:U63:U3019" includeInBPs="U3067"/>
+      </page>
+      <masterPage name="A-Master" master="U55" uid="U59">
+        <breakpoint uid="U3068" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U55">
+        <breakpoint uid="U3066" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
